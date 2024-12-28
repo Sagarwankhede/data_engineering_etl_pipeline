@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ufo-data-etl"
+version = "0.1.0"
+description = "Create A ETL Pipeline for UFO Data"
+authors = ["Sagarwankhede <sagarwankhede58@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+kaggle = "^1.6.17"
+pandas = "^2.2.3"
+matplotlib = "^3.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

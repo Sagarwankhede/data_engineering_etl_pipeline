@@ -1,4 +1,5 @@
 .DS_store
 __pycache__
-/*/*/*/ufo_data/
+/data/clean_data/*
+/data/raw_data/*
 
